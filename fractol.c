@@ -6,10 +6,11 @@
 /*   By: zait-err <zait-err@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/11 03:28:44 by zait-err          #+#    #+#             */
-/*   Updated: 2025/03/11 03:35:10 by zait-err         ###   ########.fr       */
+/*   Updated: 2025/03/11 03:41:25 by zait-err         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <math.h>
-#include <mlx.h>
+#include "fractol.h"
+
+
 
